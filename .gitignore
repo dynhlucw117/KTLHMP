@@ -1,0 +1,18 @@
+# toolchain
+cross-compiler-armv5l/
+cross-compiler-armv5l.tar.bz2
+
+# firmware / filesystem
+*.zip
+squashfs-root/
+
+# binaries
+*.so
+*.i64
+httpd
+libc.so.*
+libcommon.so*
+libCfm.so*
+
+# misc
+*.bin
